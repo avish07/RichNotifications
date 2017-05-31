@@ -15,9 +15,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E603A2FC1EC45BB9006CDD00"
-               BuildableName = "A.appex"
-               BlueprintName = "A"
+               BlueprintIdentifier = "E69E03C41EDE9B890008DC73"
+               BuildableName = "NotificationService-MultipleTarget.appex"
+               BlueprintName = "NotificationService-MultipleTarget"
                ReferencedContainer = "container:RichNotification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,9 +29,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E61AE11A1EC341CA00F0D03A"
-               BuildableName = "RichNotification.app"
-               BlueprintName = "RichNotification"
+               BlueprintIdentifier = "E69E036C1EDE86510008DC73"
+               BuildableName = "RichNotificationMultipleTarget.app"
+               BlueprintName = "RichNotificationMultipleTarget"
                ReferencedContainer = "container:RichNotification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E603A2FC1EC45BB9006CDD00"
-            BuildableName = "A.appex"
-            BlueprintName = "A"
+            BlueprintIdentifier = "E69E03C41EDE9B890008DC73"
+            BuildableName = "NotificationService-MultipleTarget.appex"
+            BlueprintName = "NotificationService-MultipleTarget"
             ReferencedContainer = "container:RichNotification.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -71,9 +71,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E61AE11A1EC341CA00F0D03A"
-            BuildableName = "RichNotification.app"
-            BlueprintName = "RichNotification"
+            BlueprintIdentifier = "E69E036C1EDE86510008DC73"
+            BuildableName = "RichNotificationMultipleTarget.app"
+            BlueprintName = "RichNotificationMultipleTarget"
             ReferencedContainer = "container:RichNotification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -91,9 +91,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E61AE11A1EC341CA00F0D03A"
-            BuildableName = "RichNotification.app"
-            BlueprintName = "RichNotification"
+            BlueprintIdentifier = "E69E036C1EDE86510008DC73"
+            BuildableName = "RichNotificationMultipleTarget.app"
+            BlueprintName = "RichNotificationMultipleTarget"
             ReferencedContainer = "container:RichNotification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

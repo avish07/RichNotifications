@@ -4,30 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>A.xcscheme</key>
+		<key>NotificationService-MultipleTarget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>7</integer>
 		</dict>
 		<key>NotificationService.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>NotificationVC.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
 		<key>NotificationViewC.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Push.xcscheme</key>
+		<key>RichNotification.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>RichNotificationMultipleTarget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -53,6 +53,26 @@
 			<true/>
 		</dict>
 		<key>E61AE1551EC3499A00F0D03A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E69E036C1EDE86510008DC73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E69E03A31EDE8FFD0008DC73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E69E03B31EDE9A960008DC73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E69E03C41EDE9B890008DC73</key>
 		<dict>
 			<key>primary</key>
 			<true/>

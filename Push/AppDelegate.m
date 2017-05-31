@@ -69,8 +69,8 @@ NSString * globalVariable;
 -(void)initialseTimerNotificationData{
     UNMutableNotificationContent *content = [UNMutableNotificationContent new];
     content.title = @"Rich Notificaions";
-    content.subtitle = @"implemnetd in iOS 10";
-    content.body = @"very Fascinating thing";
+    content.subtitle = @"implemented in iOS 10";
+    content.body = @"This also includes support for Multiple Targets. It's a fascinating thing.";
     content.sound = [UNNotificationSound defaultSound];
     //content.badge = @1;
     content.accessibilityHint = @"NotificationCategory1";
@@ -142,6 +142,9 @@ NSString * globalVariable;
             NSLog(@"open");
         }
     }
+    
+    completionHandler();
+    
 }
 
 -(void)setTriggerTime{
